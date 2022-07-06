@@ -9,3 +9,6 @@ I hope you liked my first attempt of Javascript.
 Will come with more minor projects. 
 Thankyou :) 
 
+![image](https://user-images.githubusercontent.com/79087613/177499139-0ef8594d-952b-4a10-91f2-fba929c5fb51.png)
+
+
